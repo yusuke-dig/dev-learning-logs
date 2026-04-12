@@ -7,3 +7,4 @@
 - [2026-04-09](logs/swift/2026-04-09.md) enumの継承・FetchDescriptor・責務の分離・clipShapeなど
 - [2026-04-10](logs/swift/2026-04-10.md) FetchDescriptorの条件指定・switchのwhere・バッジのロック管理など
 - [2026-04-11](logs/swift/2026-04-11.md) privateの意味・計算プロパティvsメソッド・タプルソート・scrollClipDisabledなど
+- [2026-04-12](logs/swift/2026-04-12.md) StreakCalculatorのロジック・map/compactMap・dateComponents・LazyVStackなど
