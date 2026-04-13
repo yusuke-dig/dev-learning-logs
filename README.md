@@ -8,3 +8,4 @@
 - [2026-04-10](logs/swift/2026-04-10.md) FetchDescriptorの条件指定・switchのwhere・バッジのロック管理など
 - [2026-04-11](logs/swift/2026-04-11.md) privateの意味・計算プロパティvsメソッド・タプルソート・scrollClipDisabledなど
 - [2026-04-12](logs/swift/2026-04-12.md) StreakCalculatorのロジック・map/compactMap・dateComponents・LazyVStackなど
+- [2026-04-13](logs/swift/2026-04-13.md) StreakCalculatorのロジック修正・continueの副作用・Swiftのテストの書き方
