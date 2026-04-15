@@ -9,3 +9,6 @@
 - [2026-04-11](logs/swift/2026-04-11.md) privateの意味・計算プロパティvsメソッド・タプルソート・scrollClipDisabledなど
 - [2026-04-12](logs/swift/2026-04-12.md) StreakCalculatorのロジック・map/compactMap・dateComponents・LazyVStackなど
 - [2026-04-13](logs/swift/2026-04-13.md) StreakCalculatorのロジック修正・continueの副作用・Swiftのテストの書き方
+
+## Agentic Coding
+- [2026-04-15](logs/agentic-coding/2026-04-15.md) マルチエージェント設計・Hooks/Skills・TDDサイクル・オーケストレータ設計原則
