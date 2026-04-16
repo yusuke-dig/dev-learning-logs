@@ -12,3 +12,4 @@
 
 ## Agentic Coding
 - [2026-04-15](logs/agentic-coding/2026-04-15.md) マルチエージェント設計・Hooks/Skills・TDDサイクル・オーケストレータ設計原則
+- [2026-04-16](logs/agentic-coding/2026-04-16.md) 自作プラグイン設計・Hooksの決定論・オーケストレーション選定
