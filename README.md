@@ -13,3 +13,4 @@
 ## Agentic Coding
 - [2026-04-15](logs/agentic-coding/2026-04-15.md) マルチエージェント設計・Hooks/Skills・TDDサイクル・オーケストレータ設計原則
 - [2026-04-16](logs/agentic-coding/2026-04-16.md) 自作プラグイン設計・Hooks の制御点・オーケストレーションの使い分け
+- [2026-04-17](logs/agentic-coding/2026-04-17.md) Hooks による TDD 強制・権限設計・コンテキスト運用
