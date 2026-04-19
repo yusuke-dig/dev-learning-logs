@@ -10,6 +10,7 @@
 - [2026-04-12](logs/swift/2026-04-12.md) StreakCalculatorのロジック・map/compactMap・dateComponents・LazyVStackなど
 - [2026-04-13](logs/swift/2026-04-13.md) StreakCalculatorのロジック修正・continueの副作用・Swiftのテストの書き方
 - [2026-04-19](logs/swift/2026-04-19.md) var/let・文字列補間・Bool式の書き方・@testable importとテスト構成
+- [2026-04-19 Day02](logs/swift/2026-04-19-day02.md) Int/Double/String/Bool・型変換・String.count・三項演算子
 
 ## Bash & Vim
 - [2026-04-19](logs/bash-vim/2026-04-19.md) Vim移動（hjkl・w・b・0・$）× Bash変数・echo・$()
