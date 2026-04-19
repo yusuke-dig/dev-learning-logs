@@ -10,6 +10,9 @@
 - [2026-04-12](logs/swift/2026-04-12.md) StreakCalculatorのロジック・map/compactMap・dateComponents・LazyVStackなど
 - [2026-04-13](logs/swift/2026-04-13.md) StreakCalculatorのロジック修正・continueの副作用・Swiftのテストの書き方
 
+## Bash & Vim
+- [2026-04-19](logs/bash-vim/2026-04-19.md) Vim移動（hjkl・w・b・0・$）× Bash変数・echo・$()
+
 ## Agentic Coding
 - [2026-04-15](logs/agentic-coding/2026-04-15.md) マルチエージェント設計・Hooks/Skills・TDDサイクル・オーケストレータ設計原則
 - [2026-04-16](logs/agentic-coding/2026-04-16.md) 自作プラグイン設計・Hooks の制御点・オーケストレーションの使い分け
