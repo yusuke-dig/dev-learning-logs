@@ -11,6 +11,7 @@
 - [2026-04-13](logs/swift/2026-04-13.md) StreakCalculatorのロジック修正・continueの副作用・Swiftのテストの書き方
 - [2026-04-19](logs/swift/2026-04-19.md) var/let・文字列補間・Bool式の書き方・@testable importとテスト構成
 - [2026-04-20](logs/swift/2026-04-20.md) Int/Double/String/Bool・型変換・String.count・三項演算子
+- [2026-04-21](logs/swift/2026-04-21.md) Optional・guard let・Array.first・nil合体演算子
 
 ## Bash & Vim
 - [2026-04-19](logs/bash-vim/2026-04-19.md) Vim移動（hjkl・w・b・0・$）× Bash変数・echo・$()
