@@ -13,6 +13,7 @@
 - [2026-04-20](logs/swift/2026-04-20.md) Int/Double/String/Bool・型変換・String.count・三項演算子
 - [2026-04-21](logs/swift/2026-04-21.md) Optional・guard let・Array.first・nil合体演算子
 - [2026-04-23](logs/swift/2026-04-23.md) Array/Dictionary・forEach・filter・頻度カウントイディオム
+- [2026-04-24](logs/swift/2026-04-24.md) switch範囲マッチ・where条件・for-inループとguard
 
 ## Bash & Vim
 - [2026-04-19](logs/bash-vim/2026-04-19.md) Vim移動（hjkl・w・b・0・$）× Bash変数・echo・$()
