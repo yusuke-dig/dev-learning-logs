@@ -19,6 +19,7 @@
 - [2026-04-19](logs/bash-vim/2026-04-19.md) Vim移動（hjkl・w・b・0・$）× Bash変数・echo・$()
 - [2026-04-20](logs/bash-vim/2026-04-20.md) Vim挿入・削除（i・a・A・x・dd）× Bashのif文・比較演算子
 - [2026-04-21](logs/bash-vim/2026-04-21.md) Vim検索（/・n・N・*）× Bashのfor文・seq
+- [2026-04-25](logs/bash-vim/2026-04-25.md) Vim置換（:s/old/new/g）× Bashのwhile文・read・$の役割
 
 ## Agentic Coding
 - [2026-04-15](logs/agentic-coding/2026-04-15.md) マルチエージェント設計・Hooks/Skills・TDDサイクル・オーケストレータ設計原則
